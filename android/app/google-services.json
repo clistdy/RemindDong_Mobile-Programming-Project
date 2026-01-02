@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314816189952",
+    "project_id": "reminddong",
+    "storage_bucket": "reminddong.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314816189952:android:67d279c3d1e2db146eeae5",
+        "android_client_info": {
+          "package_name": "com.example.reminddong_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9n4qSy2M0LDZZe4su2rACPu9yTDSpPNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
